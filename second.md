@@ -1,2 +1,2 @@
-master modified
+modified
 second
